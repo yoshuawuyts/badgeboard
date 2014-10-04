@@ -43,7 +43,7 @@ require('co')(function *() {
 
 //
 // Generators
-// 
+//
 
 function *getNpmInfo(pkg) {
   return JSON.parse(yield get('https://registry.npmjs.org/' + pkg))
@@ -92,6 +92,7 @@ function *getInfoFromNpm() {
     var project = projectsDB[i]
     var npm = yield getNpmInfo(project.npm)
     var projectData = data.projects[project.name]
+    console.log(project.name)
     projectData.description = npm.description
     projectData.maintainer =
       npm.versions[npm['dist-tags'].latest]._npmUser.name
