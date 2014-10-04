@@ -20,6 +20,7 @@ projects:
  - react-anchor
  #- ensemble-dom
  - simple-local
+ - simple-store
  - object-apply
  - object-emitter-only
  - fax

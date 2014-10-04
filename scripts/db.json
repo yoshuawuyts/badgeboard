@@ -93,6 +93,11 @@
       "maintainer": "yoshuawuyts",
       "node": "0.11"
     },
+    "simple-store": {
+      "description": "[![NPM version][npm-image]][npm-url] [![build status][travis-image]][travis-url] [![Test coverage][coveralls-image]][coveralls-url] [![Dependency Status][david-image]][david-url] [![Downloads][downloads-image]][downloads-url]",
+      "maintainer": "yoshuawuyts",
+      "node": "0.11"
+    },
     "slugificate": {
       "description": "Slugify a string with a character of choice",
       "maintainer": "yoshuawuyts",
