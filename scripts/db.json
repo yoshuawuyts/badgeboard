@@ -11,42 +11,42 @@
     "attendant": {
       "description": "A small-ish test server built with koa",
       "maintainer": "yoshuawuyts",
-      "node": "0.11"
+      "node": "0.10"
     },
     "barracks": {
       "description": "An event dispatcher for the flux architecture",
       "maintainer": "yoshuawuyts",
-      "node": "0.11"
+      "node": "0.10"
     },
     "customs": {
       "description": "Type validator for node.js and the browser through browserify",
       "maintainer": "yoshuawuyts",
-      "node": "0.11"
+      "node": "0.10"
     },
     "dad": {
       "description": "Data micro-framework",
       "maintainer": "yoshuawuyts",
-      "node": "0.11"
+      "node": "0.10"
     },
     "degrees-radians": {
       "description": "[![NPM version][npm-image]][npm-url] [![build status][travis-image]][travis-url] [![Test coverage][coveralls-image]][coveralls-url]",
       "maintainer": "yoshuawuyts",
-      "node": "0.11"
+      "node": "0.10"
     },
     "ensemble": {
       "description": "Event listener orchestration",
       "maintainer": "yoshuawuyts",
-      "node": "0.11"
+      "node": "0.10"
     },
     "event-accessor": {
       "description": "[![NPM version][npm-image]][npm-url] [![build status][travis-image]][travis-url] [![Test coverage][coveralls-image]][coveralls-url]",
       "maintainer": "yoshuawuyts",
-      "node": "0.11"
+      "node": "0.10"
     },
     "factory-bro": {
       "description": "A library for setting up JavaScript objects as test data.",
       "maintainer": "yoshuawuyts",
-      "node": "0.11"
+      "node": "0.10"
     },
     "fax": {
       "description": "[![NPM version][npm-image]][npm-url] [![build status][travis-image]][travis-url] [![Test coverage][coveralls-image]][coveralls-url]",
@@ -56,57 +56,57 @@
     "foyer": {
       "description": "Parallel async functions",
       "maintainer": "yoshuawuyts",
-      "node": "0.11"
+      "node": "0.10"
     },
     "miller": {
       "description": "[![NPM version][npm-image]][npm-url] [![build status][travis-image]][travis-url] [![Test coverage][coveralls-image]][coveralls-url]",
       "maintainer": "yoshuawuyts",
-      "node": "0.11"
+      "node": "0.10"
     },
     "newspeak": {
       "description": "Natural language localization for node.js and browserify",
       "maintainer": "yoshuawuyts",
-      "node": "0.11"
+      "node": "0.10"
     },
     "object-apply": {
       "description": "Map a transformation to every value in an object",
       "maintainer": "yoshuawuyts",
-      "node": "0.11"
+      "node": "0.10"
     },
     "object-emitter-only": {
       "description": "Proxy object values to only expose emitter methods.",
       "maintainer": "yoshuawuyts",
-      "node": "0.11"
+      "node": "0.10"
     },
     "object-join": {
       "description": "Merge two objects recursively into a new object",
       "maintainer": "yoshuawuyts",
-      "node": "0.11"
+      "node": "0.10"
     },
     "react-anchor": {
       "description": "Functional react anchor factory",
       "maintainer": "yoshuawuyts",
-      "node": "0.11"
+      "node": "0.10"
     },
     "simple-local": {
       "description": "Simple wrapper for localStorage. Makes dealing with localStorage less tedious.",
       "maintainer": "yoshuawuyts",
-      "node": "0.11"
+      "node": "0.10"
     },
     "simple-store": {
       "description": "[![NPM version][npm-image]][npm-url] [![build status][travis-image]][travis-url] [![Test coverage][coveralls-image]][coveralls-url] [![Dependency Status][david-image]][david-url] [![Downloads][downloads-image]][downloads-url]",
       "maintainer": "yoshuawuyts",
-      "node": "0.11"
+      "node": "0.10"
     },
     "slugificate": {
       "description": "Slugify a string with a character of choice",
       "maintainer": "yoshuawuyts",
-      "node": "0.11"
+      "node": "0.10"
     },
     "wayfarer": {
       "description": "A simple router built for minimalism and speed",
       "maintainer": "yoshuawuyts",
-      "node": "0.11"
+      "node": "0.10"
     }
   }
 }
