@@ -18,6 +18,16 @@
       "maintainer": "yoshuawuyts",
       "node": "0.10"
     },
+    "css-class-concat": {
+      "description": "Concatenate css classes into a single string and remove all prepending class dots",
+      "maintainer": "yoshuawuyts",
+      "node": "0.10"
+    },
+    "css-wipe": {
+      "description": "Reset the browser's styles",
+      "maintainer": "yoshuawuyts",
+      "node": "0.10"
+    },
     "customs": {
       "description": "Type validator for node.js and the browser through browserify",
       "maintainer": "yoshuawuyts",
@@ -58,8 +68,18 @@
       "maintainer": "yoshuawuyts",
       "node": "0.10"
     },
+    "is-dom": {
+      "description": "Check if the given object is a dom node",
+      "maintainer": "yoshuawuyts",
+      "node": "0.10"
+    },
     "miller": {
       "description": "[![NPM version][npm-image]][npm-url] [![build status][travis-image]][travis-url] [![Test coverage][coveralls-image]][coveralls-url]",
+      "maintainer": "yoshuawuyts",
+      "node": "0.10"
+    },
+    "newline-remove": {
+      "description": "Strip all newlines from the given string.",
       "maintainer": "yoshuawuyts",
       "node": "0.10"
     },
@@ -70,6 +90,11 @@
     },
     "object-apply": {
       "description": "Map a transformation to every value in an object",
+      "maintainer": "yoshuawuyts",
+      "node": "0.10"
+    },
+    "object-delegate": {
+      "description": "Delegate methods to a target object's context",
       "maintainer": "yoshuawuyts",
       "node": "0.10"
     },
@@ -88,13 +113,33 @@
       "maintainer": "yoshuawuyts",
       "node": "0.10"
     },
+    "react-debug": {
+      "description": "Debug module for react classes",
+      "maintainer": "yoshuawuyts",
+      "node": "0.10"
+    },
+    "sheetify-calc": {
+      "description": "Spec compliant CSS calc syntax for sheetify",
+      "maintainer": "yoshuawuyts",
+      "node": "0.10"
+    },
+    "sheetify-custom-media": {
+      "description": "Spec compliant CSS custom media query syntax for sheetify",
+      "maintainer": "yoshuawuyts",
+      "node": "0.10"
+    },
+    "sheetify-variables": {
+      "description": "[![NPM version][npm-image]][npm-url] [![build status][travis-image]][travis-url] [![Test coverage][coveralls-image]][coveralls-url] [![Downloads][downloads-image]][downloads-url]",
+      "maintainer": "yoshuawuyts",
+      "node": "0.10"
+    },
     "simple-local": {
       "description": "Simple wrapper for localStorage. Makes dealing with localStorage less tedious.",
       "maintainer": "yoshuawuyts",
       "node": "0.10"
     },
     "simple-store": {
-      "description": "[![NPM version][npm-image]][npm-url] [![build status][travis-image]][travis-url] [![Test coverage][coveralls-image]][coveralls-url] [![Dependency Status][david-image]][david-url] [![Downloads][downloads-image]][downloads-url]",
+      "description": "[![NPM version][npm-image]][npm-url] [![build status][travis-image]][travis-url] [![Test coverage][coveralls-image]][coveralls-url] [![Downloads][downloads-image]][downloads-url]",
       "maintainer": "yoshuawuyts",
       "node": "0.10"
     },
@@ -103,8 +148,18 @@
       "maintainer": "yoshuawuyts",
       "node": "0.10"
     },
+    "url-querystring": {
+      "description": "Split an url into a `qs` and `url` component",
+      "maintainer": "yoshuawuyts",
+      "node": "0.10"
+    },
     "wayfarer": {
       "description": "A simple router built for minimalism and speed",
+      "maintainer": "yoshuawuyts",
+      "node": "0.10"
+    },
+    "whitespace-remove": {
+      "description": "Strip all whitespace from a string",
       "maintainer": "yoshuawuyts",
       "node": "0.10"
     }

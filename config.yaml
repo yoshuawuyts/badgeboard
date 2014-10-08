@@ -36,6 +36,18 @@ projects:
  - object-join
  - factory-bro
  - wayfarer
+ - url-querystring
+ - object-delegate
+ - react-debug
+ - is-dom
+ - css-class-concat
+ - css-wipe
+ - sheetify-calc
+ - sheetify-custom-media
+ - sheetify-variables
+ - whitespace-remove
+ - newline-remove
+ #- initialize
 
 # list of maintainers, this won't be sorted
 maintainers:
